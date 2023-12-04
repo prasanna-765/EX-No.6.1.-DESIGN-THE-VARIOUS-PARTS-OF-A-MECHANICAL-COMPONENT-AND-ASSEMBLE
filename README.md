@@ -63,6 +63,20 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+#### LINKAGE
+![image](https://github.com/prasanna-765/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150009505/f3c66105-434b-4263-a57c-585ed11d6073)
+
+#### BASE PLATE
+![image](https://github.com/prasanna-765/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150009505/de291b79-02a1-4bda-9ef3-20b31a389376)
+
+#### GEAR LINKAGE
+![image](https://github.com/prasanna-765/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150009505/f16f5744-1d8c-40d4-bd6b-00432dd740c0)
+
+#### FINGER
+![image](https://github.com/prasanna-765/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150009505/300b94dd-9e2e-43a0-a220-b1873756fc97)
+
+#### ASSEMBLED VIEW
+![image](https://github.com/prasanna-765/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/150009505/b45bb9e0-74fd-436f-8023-d5382f18a9b4)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
